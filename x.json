@@ -1,0 +1,171 @@
+{
+    "zhuyejiekou": [
+        { "name": "365红豆", "url": "http://www.kan365.xyz/api.php/app/" },
+        { "name": "暖光视频", "url": "http://app.bl210.com/api.php/v1.vod" },
+        { "name": "飓风影视", "url": "http://jf.35ys.cc/lehailb_api.php/v1.vod" },
+        { "name": "独播社", "url": "http://35ys.cc/api.php/v1.vod" }
+    ],
+    "caijizhan": [
+        { "name": "七七采集", "url": "http://api.kunyu77.com/api.php" },
+        { "name": "奇趣影院", "url": "http://www.qiqu.me/api.php" }
+    ],
+    "lunbo": [
+        {
+            "name": "H牙-一起看",
+            // https://www.huya.com/cache.php?m=LiveList&do=getLiveListByPage&gameId=2135&tagAll=0&callback=getLiveListJsonpCallback&page=
+            "fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9",
+            // https://epg.112114.xyz/huya/
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="
+        },
+        {
+            "name": "H牙-绝地求生",
+            // https://www.huya.com/cache.php?m=LiveList&do=getLiveListByPage&gameId=2793&tagAll=0&callback=getLiveListJsonpCallback&page=
+            "fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTI3OTMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9",
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="
+        },
+        {
+            "name": "H牙-绝地职业",
+            // https://live.cdn.huya.com/livelist/game/tagLivelist?gameId=2793&tmpId=1097&callback=getLiveListJsonpCallback&page=
+            "fanye": "aHR0cHM6Ly9saXZlLmNkbi5odXlhLmNvbS9saXZlbGlzdC9nYW1lL3RhZ0xpdmVsaXN0P2dhbWVJZD0yNzkzJnRtcElkPTEwOTcmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9",
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="
+        },
+        {
+            "name": "H牙-星秀",
+            // https://www.huya.com/cache.php?m=LiveList&do=getLiveListByPage&gameId=1663&tagAll=0&callback=getLiveListJsonpCallback&page=
+            "fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTE2NjMmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9",
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="
+        },
+        {
+            "name": "D鱼-一起看",
+            // https://www.douyu.com/gapi/rkc/directory/mixList/2_208/
+            "fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==",
+            // https://epg.112114.xyz/douyu/
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9kb3V5dS8="
+        },
+        {
+            "name": "D鱼-主机游戏",
+            // https://www.douyu.com/gapi/rkc/directory/mixList/2_19/
+            "fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTkv",
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9kb3V5dS8="
+        },
+        {
+            "name": "D鱼-绝地求生",
+            // https://www.douyu.com/gapi/rkc/directory/mixList/2_270/
+            "fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjcwLw==",
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9kb3V5dS8="
+        },
+        {
+            "name": "D鱼-颜值",
+            // https://www.douyu.com/gapi/rkc/directory/mixList/2_201/
+            "fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjAxLw==",
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9kb3V5dS8="
+        },
+        {
+            "name": "D鱼-舞蹈",
+            // https://www.douyu.com/gapi/rkc/directory/mixList/2_1008/
+            "fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMTAwOC8=",
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9kb3V5dS8="
+        },
+        {
+            "name": "B哩-影音馆",
+            // https://api.live.bilibili.com/xlive/web-interface/v1/second/getList?platform=web&parent_area_id=10&area_id=33&sort_type=online&page=
+            "fanye": "aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9",
+            // https://epg.112114.xyz/bili/
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="
+        },
+        {
+            "name": "抖音",
+            // https://live.douyin.com/webcast/web/partition/detail/room/?aid=6383&live_id=1&device_platform=web&language=zh-CN&count=15&offset=0&partition=2791&partition_type=2&req_from=2&msToken=fS2TUjOSC4OC-K91suErp6ifkcvUgUooYN4u5EjD7n6xaFn9x3UEs42XHlmi6dIn-YuqfdbEZvx3dWC1BZmjMk-Pqg8eCdzTuX0xHwiY-5EFycTQfKhmgL-ysZ7ylk5u&X-Bogus=DFSzswVuG-bANHGxSULYJKXAIQ5t&_signature=_02B4Z6wo00001Npvp4AAAIDBuWVn6WJv2aDab6MAAFT7jBVgsxHso7wIN4sRoBte-ud06mpHv6HpGYOIwM6upz7SZtKTzwFSecyV8WKNlHnsY4onuLZUJL1B5u5BX9sdbqTOf7hK0YeuvthJ65
+            "fanye": "aHR0cHM6Ly9saXZlLmRvdXlpbi5jb20vd2ViY2FzdC93ZWIvcGFydGl0aW9uL2RldGFpbC9yb29tLz9haWQ9NjM4MyZsaXZlX2lkPTEmZGV2aWNlX3BsYXRmb3JtPXdlYiZsYW5ndWFnZT16aC1DTiZjb3VudD0xNSZvZmZzZXQ9MCZwYXJ0aXRpb249Mjc5MSZwYXJ0aXRpb25fdHlwZT0yJnJlcV9mcm9tPTImbXNUb2tlbj1mUzJUVWpPU0M0T0MtSzkxc3VFcnA2aWZrY3ZVZ1Vvb1lONHU1RWpEN242eGFGbjl4M1VFczQyWEhsbWk2ZEluLVl1cWZkYkVadngzZFdDMUJabWpNay1QcWc4ZUNkelR1WDB4SHdpWS01RUZ5Y1RRZktobWdMLXlzWjd5bGs1dSZYLUJvZ3VzPURGU3pzd1Z1Ry1iQU5IR3hTVUxZSktYQUlRNXQmX3NpZ25hdHVyZT1fMDJCNFo2d28wMDAwMU5wdnA0QUFBSURCdVdWbjZXSnYyYURhYjZNQUFGVDdqQlZnc3hIc283d0lONHNSb0J0ZS11ZDA2bXBIdjZIcEdZT0l3TTZ1cHo3U1p0S1R6d0ZTZWN5VjhXS05sSG5zWTRvbnVMWlVKTDFCNXU1Qlg5c2RicVRPZjdoSzBZZXV2dGhKNjU=",
+            // https://epg.112114.xyz/douyin/
+            "qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9kb3V5aW4v"
+        }
+    ],
+    "zhujiexi": "https://json.hfyrw.com/mao.go?url=#https://jhpc.manduhu.com/j1217.php?url=#https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+    "beiyongjiexi": "http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=",
+    "dianshizhibo": "https://gitee.com/yfdoor/x-tv/raw/master/zb.json",
+    "tiyuzhibo": "https://m.zhibo8.net",
+    "guolvdizhi": "player.css#url=#cnzz.com#51.la",
+    "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
+    "Home": {
+        "dy": {
+            "class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
+            "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#欧洲$&area=欧洲#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#印度$&area=印度#其它$&area=其它",
+            "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+        },
+        "dsj": {
+            "class": "全部$&class=#古装$&class=古装#言情$&class=言情#武侠$&class=武侠#偶像$&class=偶像#家庭$&class=家庭#青春$&class=青春#都市$&class=都市#喜剧$&class=喜剧#战争$&class=战争#军旅$&class=军旅#谍战$&class=谍战#悬疑$&class=悬疑#罪案$&class=罪案#穿越$&class=穿越#宫廷$&class=宫廷#历史$&class=历史#神话$&class=神话#科幻$&class=科幻#年代$&class=年代#农村$&class=农村#商战$&class=商战#剧情$&class=剧情#奇幻$&class=奇幻",
+            "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#英国$&area=英国#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#台湾$&area=台湾#其它$&area=其它",
+            "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+        },
+        "zy": {
+            "class": "全部$&class=#表演$&class=表演#播报$&class=播报#访谈$&class=访谈#体验$&class=体验#养成$&class=养成#游戏$&class=游戏#亲子$&class=亲子#美食$&class=美食#情感$&class=情感#选秀$&class=选秀#益智$&class=益智#晚会$&class=晚会#音乐$&class=音乐#文化$&class=文化#喜剧$&class=喜剧#曲艺$&class=曲艺#职场$&class=职场#脱口秀$&class=脱口秀#真人秀$&class=真人秀#竞技$&class=竞技#体育$&class=体育#萌宠$&class=萌宠",
+            "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#韩国$&area=韩国#日本$&area=日本#台湾$&area=台湾",
+            "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+        },
+        "dm": {
+            "class": "全部$&class=#搞笑$&class=搞笑#番剧$&class=番剧#国创$&class=国创#大电影$&class=大电影#热血$&class=热血#催泪$&class=催泪#治愈$&class=治愈#励志$&class=励志#机战$&class=机战#战斗$&class=战斗#恋爱$&class=恋爱#科幻$&class=科幻#奇幻$&class=奇幻#魔幻$&class=魔幻#推理$&class=推理#校园$&class=校园#日常$&class=日常#经典$&class=经典#历史$&class=历史#美食$&class=美食#职场$&class=职场#偶像$&class=偶像#泡面$&class=泡面#冒险$&class=冒险#竞技$&class=竞技#武侠$&class=武侠#玄幻$&class=玄幻",
+            "area": "全部$&area=#内地$&area=内地#日本$&area=日本#欧美$&area=欧美#其它$&area=其它",
+            "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
+        }
+    },
+    "zidingyi": {
+        "name": "555电影",
+        "url": "https://www.5dy3.cc/",
+        "tihuan": "cnzz.com",
+        "User": "空",
+        "fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
+        "houzhui": "---.html",
+        "shifouercijiequ": "0",
+        "jiequqian": "空",
+        "jiequhou": "空",
+        "jiequshuzuqian": "class=\"myui-vodlist__box\"",
+        "jiequshuzuhou": "</span>",
+        "tupianqian": "original=\"",
+        "tupianhou": "\"",
+        "biaotiqian": "title=\"",
+        "biaotihou": "\"",
+        "lianjieqian": "href=\"",
+        "lianjiehou": "\"",
+        "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+        "sousuohou": "&limit=500",
+        "sousuohouzhui": "/voddetail/",
+        "ssmoshi": "0",
+        "sousuoshifouercijiequ": "0",
+        "jspic": "pic",
+        "jsname": "name",
+        "jsid": "id",
+        "ssjiequqian": "空",
+        "ssjiequhou": "空",
+        "ssjiequshuzuqian": "空",
+        "ssjiequshuzuhou": "空",
+        "sstupianqian": "空",
+        "sstupianhou": "空",
+        "ssbiaotiqian": "空",
+        "ssbiaotihou": "空",
+        "sslianjieqian": "空",
+        "sslianjiehou": "空",
+        "bfshifouercijiequ": "0",
+        "bfjiequqian": "空",
+        "bfjiequhou": "空",
+        "bfjiequshuzuqian": "id=\"playlist",
+        "bfjiequshuzuhou": "</ul>",
+        "zhuangtaiqian": "class=\"otherbox\">",
+        "zhuangtaihou": "</p>",
+        "daoyanqian": "导演：</span>",
+        "daoyanhou": "</p>",
+        "zhuyanqian": "主演：</span>",
+        "zhuyanhou": "</p>",
+        "juqingqian": "style=\"display: none;\">",
+        "juqinghou": "</span>",
+        "bfyshifouercijiequ": "0",
+        "bfyjiequqian": "空",
+        "bfyjiequhou": "空",
+        "bfyjiequshuzuqian": "<a",
+        "bfyjiequshuzuhou": "/a>",
+        "bfbiaotiqian": ">",
+        "bfbiaotihou": "<",
+        "bflianjieqian": "href=\"",
+        "bflianjiehou": "\""
+    }
+}
