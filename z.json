@@ -1,4 +1,3 @@
-//首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {
   "Home": [
     {
@@ -42,7 +41,7 @@
       "pic": "https://epg.112114.xyz/bingimg"
     }
   ],
-  //填写APP接口，支持以下5种接口格式。
+
   "zhuyejiekou": [
     {
       "name": "365红豆",
@@ -61,7 +60,7 @@
       "url": "http://35ys.cc/api.php/v1.vod"
     }
   ],
-  //填写采集接口
+
   "caijizhan": [
     {
       "name": "七七采集",
@@ -72,7 +71,7 @@
       "url": "http://www.qiqu.me/api.php"
     }
   ],
-  //主解析是JSON直链格式的解析
+
   "zhujiexi": [
     {
       "name": "解析1",
@@ -87,7 +86,7 @@
       "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="
     }
   ],
-  //备用解析是常规格式的解析
+
   "beiyongjiexi": [
     {
       "name": "解析1",
@@ -98,11 +97,11 @@
       "url": "https://nbjx.vip/?url="
     }
   ],
-  //填写电视直播的接口链接
+
   "dianshizhibo": "https://raw.fastgit.org/yfdoor/x-tv/main/zb.json",
-  //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
+
   "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#cnzz.com",
-  //填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
+
   "zidingyi": [
     {
       "name": "555电影",
