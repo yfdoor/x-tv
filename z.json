@@ -43,73 +43,61 @@
     ],
     "zhuyejiekou": [
         {
-            "name": "填接口名称",
-            "url": "http://xxx/api.php/v1.vod"
+            "name": "365红豆",
+            "url": "http://www.kan365.xyz/api.php/app/"
         },
         {
-            "name": "填接口名称",
-            "url": "https://xxx/xgapp.php/v1/"
+            "name": "暖光视频",
+            "url": "http://app.bl210.com/api.php/v1.vod"
         },
         {
-            "name": "填接口名称",
-            "url": "http://xxx/api.php/app/"
+            "name": "飓风影视",
+            "url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"
         },
         {
-            "name": "填接口名称",
-            "url": "https://xxx/xgapp.php/v2/"
-        },
-        {
-            "name": "填接口名称",
-            "url": "http://xxx/mogai_api.php/v1.vod"
+            "name": "独播社",
+            "url": "http://35ys.cc/api.php/v1.vod"
         }
     ],
     "caijizhan": [
         {
-            "name": "填接口名称",
-            "url": "填采集站链接"
+            "name": "七七采集",
+            "url": "http://api.kunyu77.com/api.php"
         },
         {
-            "name": "填接口名称",
-            "url": "填采集站链接"
-        },
-        {
-            "name": "填接口名称",
-            "url": "填采集站链接"
-        },
-        {
-            "name": "填接口名称",
-            "url": "填采集站链接"
+            "name": "奇趣影院",
+            "url": "http://www.qiqu.me/api.php"
         }
     ],
     "zhujiexi": [
         {
             "name": "解析1",
-            "url": "www.xxx.url="
+            "url": "https://json.hfyrw.com/mao.go?url="
         },
         {
             "name": "解析2",
-            "url": "www.xxx.url="
+            "url": "https://jhpc.manduhu.com/j1217.php?url="
         },
         {
             "name": "解析3",
-            "url": "www.xxx.url="
+            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="
         }
     ],
     "beiyongjiexi": [
         {
             "name": "解析1",
-            "url": "www.xxx.url="
+            "url": "http://api.diliktv.xyz/vip/jx.php?url="
         },
         {
             "name": "解析2",
-            "url": "www.xxx.url="
+            "url": "https://nbjx.vip/?url="
         },
         {
             "name": "解析3",
-            "url": "www.xxx.url="
+            "url": "https://gkd8.cf/vip/vip.php?url="
         }
     ],
-    "dianshizhibo": "https://xxx.txt",
+    "dianshizhibo": "https://cdn.jsdelivr.net/gh/yfdoor/x-tv@main/zb.json",
     "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#cnzz.com#baidu.com#.gif",
     "zidingyi": [
         {
